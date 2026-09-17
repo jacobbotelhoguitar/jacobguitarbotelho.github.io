@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In-Home Guitar & Bass Lessons | [Jacob Botelh]</title>
+</head>
+<body>
+ 
+	<!-- 1. HEADER & NAVIGATION -->
+
+   <header>
+        <nav>
+            <strong>[Your Name] Music Studio</strong>
+            <ul>
+                <li><a href="#lessons">Lessons</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#contact">Book a Lesson</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero">
+            <h1>Begin a life-long passion today from the comfort of your own home</h1>
+            <p>Music lessons in Washington D.C. for beginners, intermediate and advnaced players<p>
+            <a href="# contact"><button>Book Your First Lesson</button></a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 [Your Name] Music. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+
+</body>
+</html>
